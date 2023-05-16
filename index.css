@@ -204,7 +204,9 @@ input[type=checkbox]:checked ~ .menu {
     padding: 10% 15%;
     border-radius: 10px;
     color: #fff;
+        border: 2px solid white;
     text-align: center;
+    
 }
 .price-col p{
     font-size: 22px;
